@@ -7,7 +7,7 @@ Submitted by: Jason Tran
 Time spent: 4 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/colorpatterngame
-https://colorpatterngame.glitch.me/
+or https://colorpatterngame.glitch.me/
 
 ## Required Functionality
 
