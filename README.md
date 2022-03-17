@@ -40,18 +40,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+<img src='colorgame.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[https://www.w3schools.com/tags/att_button_disabled.asp
-https://www.w3schools.com/tags/tag_input.asp]
+*https://www.w3schools.com/tags/att_button_disabled.asp
+*https://www.w3schools.com/tags/tag_input.asp
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+The part that gave me some was trying to implement the three strike system feature. At first I was having trouble find how to display the strikes nicely. Plain text
+seemed a bit plain so I tried to find a way to implement this green checkmark symbol for each of the strikes. However, it seemed a bit complicate since there were apparently special key values for the symbol which I didn't understand how to use. Therefore, I decided to just switch to using buttons with an X in the middle since that was just made up of concepts that I had just learned from the required prework and also disabled them so the user wouldn't start clicking on them. I then reworked the script.js file to account for the strikes, but when I tried running it, the whole program stopped working. I tried resolving this by cutting out some of the new code that I had just added until it finally started working again, though without the 3 strike system working. At first I thought the strike count was not working so I added an alert to show the number of strikes which was apparently working correctly. I slowly added code back in until the whole program stopped working again, which happened when I tried to make the strike boxes dissappear and reappear. Since I didn't anything wrong with the js code, I check the html file and it turned out that instead of assigning each button an id, I had assigned them a type. So I switched type to id and it finally worked.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
