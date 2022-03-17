@@ -61,7 +61,7 @@ seemed a bit plain so I tried to find a way to implement this green checkmark sy
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://youtu.be/nYO4Gf2XZeU)
 
 
 ## License
