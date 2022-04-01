@@ -66,7 +66,7 @@ seemed a bit plain so I tried to find a way to implement this green checkmark sy
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Jason Tran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
